@@ -1,5 +1,5 @@
 # **Análise Exploratória e Limpeza de Dados: Risco de Crédito**
-# **"O histórico financeiro realmente dita as regras na aprovação de crédito?"**
+# **"O histórico financeiro impacta na aprovação de crédito?"**
 
 
 # **1. Objetivo do Projeto** 
@@ -45,3 +45,9 @@ A análise de tendências em gráficos de linha retornou os dois maiores ofensor
 Sim, o histórico financeiro impacta a aprovação, mas de forma contra-intuitiva. A ausência de histórico é matematicamente mais arriscada para a instituição do que um histórico longo e crítico, pois este último oferece previsibilidade de comportamento. 
 
 Com base nos dados explorados, o perfil ideal de baixo risco da instituição é o cliente de meia idade (35 a 45 anos), que solicita créditos menores por exemplo eletrodomésticos, para pagamento em curto prazo (até 12 meses).
+
+<img width="1784" height="484" alt="histograma" src="https://github.com/user-attachments/assets/77b7737d-1056-4ce3-ae25-476d5adc1536" />
+
+<img width="978" height="484" alt="tendencia de risco" src="https://github.com/user-attachments/assets/68ec69a1-82da-4088-86a8-9242a65506d7" />
+
+<img width="979" height="484" alt="padrão demográfico" src="https://github.com/user-attachments/assets/78679df5-6250-4b80-82bb-62c9f2c899e1" />
